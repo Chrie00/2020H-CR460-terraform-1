@@ -1,4 +1,4 @@
-provider "google" {provider "google" {
+provider "google" {
   project = "test-cr460"
   credentials = "account.json"
   region  = "us-central1"
